@@ -39,7 +39,7 @@ newsCli
 If you would like to contribute, please fork the repository and make changes as you wish. Pull requests are welcome.
 
 ## License
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the ISC License 
 
 
 
